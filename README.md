@@ -61,20 +61,3 @@ para superar desafios complexos.
 O IASI foi uma experiência prática valiosa sobre como a **IA pode impulsionar práticas sustentáveis** na indústria. O projeto demonstrou que a tecnologia é uma aliada poderosa na redução dos impactos ambientais e otimização de operações. 
 Com este trabalho, a equipe espera inspirar outras iniciativas que usem inteligência artificial de forma ética e responsável para construir um futuro mais sustentável.
 ---
-
-## Vídeo de conclusão: https://drive.google.com/file/d/1bdfWnki8fJ_6tj_mus4c1klEbdS4hrNt/view?usp=sharing
----
-
-### Integrantes:
-
-550242 - Mary Araújo Moreira Speranzini
-
-550975 - Eduardo Bartolomeo Jablinski
-
-99759 - Caio Ribeiro Rodrigues
-
-98790 - Elen Cabral
-
-550137 - Guilherme Riofrio Quaglio
-
----
